@@ -83,5 +83,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <div align="center">
   <small>Desenvolvido por Rodrigo Gonçalves Santana - Junho/2021</small>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Valença-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-valenca/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Valença-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-valenca/)]
 </div>
