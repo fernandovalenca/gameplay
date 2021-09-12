@@ -26,7 +26,6 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 -   [ ] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
 -   [ ] Compartilha o convite para ingressar no servidor do usuário;
 -   [ ] Permite redirecionar o usuário para o seu próprio servidor;
--   [ ] Disponibiliza a função de Logout.
 
 
 ## ✨ Tecnologias
@@ -47,6 +46,7 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 -   [ ] Expo Authentication
 -   [ ] React Native Share
 -   [ ] Deep Link
+-   [ ] React Hook Form
 
 
 ## 🔖 Layout
@@ -81,7 +81,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 
 <div align="center">
-  <small>Desenvolvido por Rodrigo Gonçalves Santana - Junho/2021</small>
-
- [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Valença-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-valenca/)]
+  <small>Desenvolvido com ❤️ por Fernando Valença - Setembro/2021</small>
+  
+  
+ [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Valença-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-valenca/)](https://www.linkedin.com/in/fernando-valenca/) 
 </div>
